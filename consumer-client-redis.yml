@@ -5,6 +5,7 @@ spring:
     name: consumer-client
 
 
+
 # 注册中心地址
 eureka:
   client:
